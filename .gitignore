@@ -1,0 +1,4 @@
+# Project level git ignore
+
+# Misc
+.DS_Store
